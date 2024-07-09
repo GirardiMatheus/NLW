@@ -1,0 +1,4 @@
+**/__pycash__
+.pytest_cache
+.vemv
+.env
